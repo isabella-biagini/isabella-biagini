@@ -3,8 +3,7 @@
 
 💻 QA Analyst e Monitora em Eng. de Software, UX e PI na [SPTech School](https://sptech.school/)
 
-![](https://github-readme-stats.vercel.app/api?username=isabella-biagini&theme=react&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=isabella-biagini&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=isabella-biagini&theme=react&hide_border=true&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=isabella-biagini&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isabella-biagini&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
